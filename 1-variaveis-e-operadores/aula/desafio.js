@@ -18,4 +18,4 @@ const valorGasto = litrosConsumidos * distanciaEmKm;
 
 console.log(
     `o valor que você irá gastar de combustível na sua viagem é de: R\$${valorGasto.toFixed(2)}`
-    );
+);
