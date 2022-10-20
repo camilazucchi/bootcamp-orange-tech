@@ -20,7 +20,7 @@ Esse repositório destina-se para fins de estudos, incluindo materiais e  projet
 
 - Desafio com estruturas condicionais:
 
-![Segundo Exercício - Estruturas Condicionais](https://uploaddeimagens.com.br/images/004/070/125/full/segundoExercicio.png?1666301126)
+![Segundo Exercício - Estruturas Condicionais](https://uploaddeimagens.com.br/images/004/070/131/full/primeiroExercicio.png?1666301366)
 
 
 ## Stack utilizada
