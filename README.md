@@ -16,11 +16,11 @@ Esse repositório destina-se para fins de estudos, incluindo materiais e  projet
 
 - Desafio com variáveis e operadores:
 
-![Primeiro Exercício - Variáveis e Operadores](https://uploaddeimagens.com.br/images/004/069/548/full/primeiroExercicio.png?1666286289)
+![Primeiro Exercício - Variáveis e Operadores](https://uploaddeimagens.com.br/images/004/070/131/full/primeiroExercicio.png?1666301366)
 
 - Desafio com estruturas condicionais:
 
-![Segundo Exercício - Estruturas Condicionais](https://uploaddeimagens.com.br/images/004/070/131/full/primeiroExercicio.png?1666301366)
+![Segundo Exercício - Estruturas Condicionais](https://uploaddeimagens.com.br/images/004/070/132/full/segundoExercicio.png?1666301462)
 
 
 ## Stack utilizada
