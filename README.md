@@ -15,9 +15,11 @@ Esse repositório destina-se para fins de estudos, incluindo materiais e  projet
 ## Demonstração
 
 - Desafio com variáveis e operadores:
+
 ![Primeiro Exercício](https://uploaddeimagens.com.br/images/004/069/548/full/primeiroExercicio.png?1666286289)
 
 - Desafio com estruturas condicionais:
+
 ![Segundo Exercício](https://uploaddeimagens.com.br/images/004/070/117/full/segundoExercicio.png?1666300802)
 
 
