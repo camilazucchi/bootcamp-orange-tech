@@ -1,8 +1,8 @@
 const numero = 10;
-const isNumeroPar = (numero % 2) === 0;
+const isNumeroPar = numero % 2 === 0;
 
 if (isNumeroPar) {
-    console.log("o número é par!")
+  console.log("o número é par!");
 } else {
-    console.log("o número é ímpar!")
+  console.log("o número é ímpar!");
 }

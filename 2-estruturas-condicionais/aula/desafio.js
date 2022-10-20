@@ -11,18 +11,22 @@ você terá cinco variáveis, sendo elas:
 imprima no console o valor que será  gasto para realizar esta viagem.
 */
 
-const precoEtanol = 3.40;
+const precoEtanol = 3.4;
 const precoGasolina = 4.86;
 const gastoMedioPorKm = 12;
 const distanciaEmKm = 180.4;
 const isEtanol = false;
 
 if (isEtanol === true) {
-    const litrosConsumidos = distanciaEmKm / gastoMedioPorKm;
-    const valorGasto = litrosConsumidos * precoEtanol;
-    console.log("você gastará: " + "R$" +valorGasto.toFixed(2) + " em combustível do tipo etanol. boa viagem!");
+  const litrosConsumidos = distanciaEmKm / gastoMedioPorKm;
+  const valorGasto = litrosConsumidos * precoEtanol;
+  console.log(
+    `você gastará: R\$${valorGasto.toFixed(2)} em combustível do tipo etanol. boa viagem!`
+  );
 } else {
-    const litrosConsumidos = distanciaEmKm / gastoMedioPorKm;
-    const valorGasto = litrosConsumidos * precoGasolina;
-    console.log("você gastará: " + "R$" +valorGasto.toFixed(2) + " em combustível do tipo gasolina. boa viagem!");
+  const litrosConsumidos = distanciaEmKm / gastoMedioPorKm;
+  const valorGasto = litrosConsumidos * precoGasolina;
+  console.log(
+    `você gastará: R\$${valorGasto.toFixed(2)} em combustível do tipo gasolina. boa viagem!`
+  );
 }

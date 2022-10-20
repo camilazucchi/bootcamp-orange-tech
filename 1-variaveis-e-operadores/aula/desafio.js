@@ -16,4 +16,6 @@ let distanciaEmKm = 180.4;
 const litrosConsumidos = precoCombustivel / kmPorLitros;
 const valorGasto = litrosConsumidos * distanciaEmKm;
 
-console.log("o valor que você irá gastar de combustível na sua viagem é de: " + "R$" + valorGasto.toFixed(2));
+console.log(
+    `o valor que você irá gastar de combustível na sua viagem é de: R\$${valorGasto.toFixed(2)}`
+    );
