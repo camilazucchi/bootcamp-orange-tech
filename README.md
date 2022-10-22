@@ -10,7 +10,7 @@ Esse repositório destina-se para fins de estudos, incluindo materiais e  projet
 1 - Primeiras páginas interativas com JavaScript
 - Variáveis e operadores;
 - Estruturas condicionais;
-- Prática com Variáveis, Operadores e Estruturas Condicionais
+- Prática com Variáveis, Operadores e Estruturas Condicionais.
 
 
 ## Demonstração
