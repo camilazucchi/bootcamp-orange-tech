@@ -25,11 +25,11 @@ if (formulaIMC < 18.5) {
   console.log(
     `o seu IMC é de: ${formulaIMC.toFixed(2)}. você está abaixo do peso. `
   );
-} else if (formulaIMC >= 18.5 && formulaIMC <= 25) {
+} else if (formulaIMC >= 18.5 && formulaIMC < 25) {
   console.log(
     `o seu IMC é de: ${formulaIMC.toFixed(2)}. você está com o peso normal. `
   );
-} else if (formulaIMC >= 25 && formulaIMC <= 30) {
+} else if (formulaIMC >= 25 && formulaIMC < 30) {
   console.log(
     `o seu IMC é de: ${formulaIMC.toFixed(2)}. você está acima do peso. `
   );
