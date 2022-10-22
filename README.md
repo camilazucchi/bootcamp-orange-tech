@@ -29,7 +29,8 @@ Esse repositório destina-se para fins de estudos, incluindo materiais e  projet
 
 ![Algoritmo média aluno](https://uploaddeimagens.com.br/images/004/072/114/original/exercicio1.png?1666415489)
 
-2. Calculadora de IMC - Índice de Massa Corporal
+2. Calculadora de IMC - Índice de Massa 
+
 ![Calculadora de IMC](https://uploaddeimagens.com.br/images/004/072/120/original/exercicio2.png?1666416932)
 
 
