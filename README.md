@@ -25,7 +25,7 @@ Esse repositório destina-se para fins de estudos, incluindo materiais e  projet
 
 - Primeiro exercício prático:
 
-![Algoritmo que retorna a média do aluno](https://uploaddeimagens.com.br/images/004/072/107/full/exercicio1.png?1666414542)
+![Algoritmo que retorna a média do aluno](https://uploaddeimagens.com.br/images/004/072/114/original/exercicio1.png?1666415489)
 
 
 ## Stack utilizada

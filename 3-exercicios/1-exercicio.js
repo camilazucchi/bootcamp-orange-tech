@@ -1,6 +1,6 @@
 /*
 faça um algoritmo que, dado três notas tiradas por um aluno em um semestre da faculdade
-calcule e imprima a sua média e a sua classificação conforme a table abaixo:
+calcule e imprima a sua média e a sua classificação conforme a tabela abaixo:
 
 média = ( nota 1 + nota 2 + nota 3) / 3;
 
