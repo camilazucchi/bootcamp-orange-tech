@@ -23,6 +23,9 @@ Esse repositório destina-se para fins de estudos, incluindo materiais e  projet
 
 ![Segundo Exercício - Estruturas Condicionais](https://uploaddeimagens.com.br/images/004/070/132/full/segundoExercicio.png?1666301462)
 
+- Primeiro exercício prático:
+![Algoritmo que retorna a média do aluno](https://uploaddeimagens.com.br/images/004/072/107/full/exercicio1.png?1666414542)
+
 
 ## Stack utilizada
 
