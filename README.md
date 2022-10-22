@@ -25,11 +25,11 @@ Esse repositório destina-se para fins de estudos, incluindo materiais e  projet
 
 - Exercícios práticos:
 
-1. Algoritmo que retorna a média de um aluno e o classifica como reprovado, em recuperação ou aprovado.
+1. Algoritmo que retorna a média de um aluno e o classifica como reprovado, em recuperação ou aprovado:
 
 ![Algoritmo média aluno](https://uploaddeimagens.com.br/images/004/072/114/original/exercicio1.png?1666415489)
 
-2. Calculadora de IMC - Índice de Massa 
+2. Calculadora de IMC - Índice de Massa Corporal:
 
 ![Calculadora de IMC](https://uploaddeimagens.com.br/images/004/072/120/original/exercicio2.png?1666416932)
 
