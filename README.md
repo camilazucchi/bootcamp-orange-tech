@@ -37,6 +37,10 @@ Esse repositório destina-se para fins de estudos, incluindo materiais e  projet
 
 ![Calculadora de opções de pagamento](https://uploaddeimagens.com.br/images/004/074/166/original/exercicio3.png?1666630876)
 
+- Funções com JavaScript:
+
+![Refatorando o código](https://uploaddeimagens.com.br/images/004/074/336/original/exercicioFuncoes.png?1666634054)
+
 
 ## Stack utilizada
 
