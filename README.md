@@ -39,8 +39,11 @@ Esse repositório destina-se para fins de estudos, incluindo materiais e  projet
 
 - Funções com JavaScript:
 
+1. Refatorando o Exercício 2 - Calculadora de IMC:
 ![Refatorando o código](https://uploaddeimagens.com.br/images/004/074/336/original/exercicioFuncoes.png?1666634054)
 
+2. Refatorando o Exercício 3 - Calculadora de opções de pagamento de uma peça de roupa:
+![Refatorando o código](https://uploaddeimagens.com.br/images/004/074/537/original/exercicioFuncoes2.png?1666636633)
 
 ## Stack utilizada
 
