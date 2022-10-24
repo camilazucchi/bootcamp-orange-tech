@@ -33,6 +33,9 @@ Esse repositório destina-se para fins de estudos, incluindo materiais e  projet
 
 ![Calculadora de IMC](https://uploaddeimagens.com.br/images/004/072/120/original/exercicio2.png?1666416932)
 
+3. Calculadora de opções de pagamento de uma peça de roupa:
+![Calculadora de opções de pagamento](https://uploaddeimagens.com.br/images/004/074/166/original/exercicio3.png?1666630876)
+
 
 ## Stack utilizada
 
