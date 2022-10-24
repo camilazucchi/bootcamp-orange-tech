@@ -31,12 +31,11 @@ function classificarIMC(imc) {
       }
 }
 
-function main() {
-    const altura = 1.9;
-    const peso = 64;
+// a função só existe dentro do parênteses:
+(function main() {
+    const peso = 75;
+    const altura = 1.75;
 
     const imc = calcularIMC(peso, altura);
     console.log(classificarIMC(imc));
-}
-
-main();
+})();
