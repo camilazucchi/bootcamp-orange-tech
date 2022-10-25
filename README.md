@@ -47,6 +47,16 @@ Esse repositório destina-se para fins de estudos, incluindo materiais e  projet
 
 ![Refatorando o código](https://uploaddeimagens.com.br/images/004/074/537/original/exercicioFuncoes2.png?1666636633)
 
+- Objetos em JavaScript
+
+1. Criando uma classe para classificar um carro: 
+
+![Criando classe Carros](https://uploaddeimagens.com.br/images/004/076/608/original/exercicioObjetos1.png?1666725747)
+
+2. Criando uma classe de IMC (Índice de Massa Corporal):
+
+![Criando classe IMC](https://uploaddeimagens.com.br/images/004/076/611/original/exercicioObjetos2.png?1666725887)
+
 ## Stack utilizada
 
 **Front-end:** HTML e CSS
