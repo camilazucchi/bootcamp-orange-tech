@@ -55,7 +55,7 @@
     height: 70px;
   }
 
-  @media screen and (min-width: 380px) {
+@media screen and (min-width: 380px) {
     .content {
       grid-template-columns: 1fr 1fr;
     }
