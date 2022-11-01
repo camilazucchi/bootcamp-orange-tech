@@ -7,14 +7,26 @@
 }
 
 body {
-  background-color: #f6f8fc;
+  background-color: var(--white);
+}
+
+header {
+  width: 100vw;
+  height: 2.5rem;
+  background-color: var(--pink);
+}
+
+.img-content img {
+  width: 100vw;
+  height: 25rem;
+  object-fit: cover;
 }
 
 .content {
   width: 100vw;
   height: 100vh;
   padding: 1rem;
-  background-color: #f6f8fc;
+  background-color: var(--white);
 }
 
 @media screen and (min-width: 992px) {

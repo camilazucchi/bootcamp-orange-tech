@@ -7,58 +7,58 @@
   }
 
   .normal {
-    background-color: #A8A77A;
+    background-color: var(--normal);
   }
   .fire {
-    background-color: #EE8130;
+    background-color: var(--fire);
   }
 	.water {
-    background-color: #6390F0
+    background-color: var(--water);
   }
 	.electric {
-    background-color: #F7D02C;
+    background-color: var(--electric);
   }
 	.grass {
-    background-color: #7AC74C;
+    background-color: var(--grass);
   }
 	.ice {
-    background-color: #96D9D6;
+    background-color: var(--ice);
   }
 	.fighting {
-    background-color: #C22E28;
+    background-color: var(--fighting);
   }
 	.poison {
-    background-color: #A33EA1;
+    background-color: var(--poison);
   }
 	.ground {
-    background-color: #E2BF65;
+    background-color: var(--ground);
   }
 	.flying {
-    background-color: #A98FF3;
+    background-color: var(--flying);
   }
 	.psychic {
-    background-color: #F95587;
+    background-color: var(--psychic);
   }
 	.bug {
-    background-color: #A6B91A;
+    background-color: var(--bug);
   }
 	.rock {
-    background-color: #B6A136;
+    background-color: var(--rock);
   }
 	.ghost {
-    background-color: #735797;
+    background-color: var(--ghost);
   }
 	.dragon {
-    background-color: #6F35FC;
+    background-color: var(--dragon);
   }
 	.dark {
-    background-color: #705746;
+    background-color: var(--dark);
   }
 	.steel {
-    background-color: #B7B7CE;
+    background-color: var(-steel);
   }
 	.fairy {
-    background-color: #D685AD;
+    background-color: var(--fairy);
   }
 
   .pokemon {
@@ -70,7 +70,7 @@
   }
   
   .pokemon .number {
-    color: #f0f2f6;
+    color: var(--white);
     opacity: 0.3;
     text-align: right;
     font-size: 0.625rem;
@@ -78,7 +78,7 @@
   
   .pokemon .name {
     margin-bottom: 0.25rem;
-    color: #f0f2f6;
+    color: var(--white);
     text-transform: capitalize;
   }
   
@@ -99,8 +99,8 @@
     padding: 0.25rem 0.5rem;
     margin: 0.25rem 0;
     border-radius: 2rem;
-    color: #f0f2f6;
-    font-size: 0.625rem;
+    color: var(--white);
+    font-size: .80rem;
     text-align: center;
     filter: brightness(1.1);
   }
@@ -123,11 +123,12 @@
   .pagination button {
     padding: .75rem;
     margin: .25rem 0;
-    background-color: #6c79db;
+    background-color: var(--pink);
     border: none;
     border-radius: 1rem;
-    font-size: .80rem;
-    color: #f0f2f6;
+    font-size: .90rem;
+    color: var(--white);
+    cursor: pointer;
   }
 
 @media screen and (min-width: 380px) {
