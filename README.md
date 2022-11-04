@@ -22,6 +22,8 @@ Esse repositório destina-se para fins de estudos, incluindo materiais e  projet
 - Nesse projeto foram utilizadas as stacks HTML, CSS e JavaScript. Para fazer a Pokédex também utilizamos a integração com a API pública [PokéAPI](https://pokeapi.co/).
 - O projeto encontra-se hospedado [AQUI](https://pokedex-rust-ten.vercel.app/).
 
+![Foto do Projeto](https://uploaddeimagens.com.br/images/004/090/833/original/pokedex.PNG?1667580312)
+
 ## Stack utilizada
 
 **Front-end:** HTML e CSS
