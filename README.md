@@ -24,6 +24,20 @@ Esse repositório destina-se para fins de estudos, incluindo materiais e  projet
 
 ![Foto do Projeto](https://uploaddeimagens.com.br/images/004/090/833/original/pokedex.PNG?1667580312)
 
+2 - Começando na Biblioteca React;
+- Configuração de Ambiente React;
+- Primeiros passos na Biblioteca React;
+- Iniciando um Projeto com React CLI e Navegação (react-router-dom);
+- Estilização com Styled-Components;
+- Trabalhando com Hooks Básicos;
+- Trabalhando com Formulários no React;
+- Fundamentos do TypeScript;
+- Convertendo o Projeto de JavaScript para TypeScript;
+- Desafio de Projeto: Calculadora com React;
+- Desafio de Projeto: Wiki de Repositórios do GitHub com React;
+- Desafio de Projeto: Tela de Cadastro com React;
+- Desafio de Projeto: Implementando uma Tela de Login com Validação usando TypeScript.
+
 ## Stack utilizada
 
 **Front-end:** HTML e CSS
