@@ -24,7 +24,7 @@ Esse repositório destina-se para fins de estudos, incluindo materiais e  projet
 
 ![Foto do Projeto](https://uploaddeimagens.com.br/images/004/090/833/original/pokedex.PNG?1667580312)
 
-2 - Começando na Biblioteca React;
+2 - Começando na Biblioteca React
 - Configuração de Ambiente React;
 - Primeiros passos na Biblioteca React;
 - Iniciando um Projeto com React CLI e Navegação (react-router-dom);
