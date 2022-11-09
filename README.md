@@ -47,5 +47,5 @@ Esse repositório destina-se para fins de estudos, incluindo materiais e  projet
 
 ## Autores
 
-- [@camilazucchi](https://www.github.com/camilazucchi)
+- Feito por [@camilazucchi](https://www.github.com/camilazucchi).
 
