@@ -33,10 +33,21 @@ Esse repositório destina-se para fins de estudos, incluindo materiais e  projet
 - Trabalhando com Formulários no React;
 - Fundamentos do TypeScript;
 - Convertendo o Projeto de JavaScript para TypeScript;
-- Desafio de Projeto: Calculadora com React;
-- Desafio de Projeto: Wiki de Repositórios do GitHub com React;
-- Desafio de Projeto: Tela de Cadastro com React;
-- Desafio de Projeto: Implementando uma Tela de Login com Validação usando TypeScript.
+
+2.1 - Desafio de Projeto: Calculadora com React.
+
+![Foto do projeto](https://uploaddeimagens.com.br/images/004/163/666/original/calculadora.PNG?1668486633)
+- Utilizando React, a ideia proposta foi de criar uma calculadora, com funcionalidades (somar, subtrair, multiplicar e dividir).
+- O projeto encontra-se hospedado [AQUI](https://react-calculadora-two.vercel.app/).
+- Para além do desafio, foram utilizados:
+  - [Styled Components](https://styled-components.com/);
+  - [React Icons](https://react-md.dev/);
+  - Atualização de medidas PX para REM;
+  - [Media Queries](https://medium.com/reactbrasil/utilizando-media-queries-no-react-com-styled-components-f0f3160f3f01).
+
+2.2 Desafio de Projeto: Wiki de Repositórios do GitHub com React;
+2.3 Desafio de Projeto: Tela de Cadastro com React;
+2.4 Desafio de Projeto: Implementando uma Tela de Login com Validação usando TypeScript.
 
 ## Stack utilizada
 
