@@ -45,7 +45,16 @@ Esse repositório destina-se para fins de estudos, incluindo materiais e  projet
   - Atualização de medidas PX para REM;
   - [Media Queries](https://medium.com/reactbrasil/utilizando-media-queries-no-react-com-styled-components-f0f3160f3f01).
 
-2.2 Desafio de Projeto: Wiki de Repositórios do GitHub com React;
+2.2 Desafio de Projeto: Wiki de Repositórios do GitHub com React.
+
+![Foto do projeto](https://uploaddeimagens.com.br/images/004/171/027/original/wiki-repos.PNG?1669051822)
+- Utilizando a [API de repositórios do GitHub](https://docs.github.com/en/rest/repos0), foi feito um projeto onde é possível adicionar e remover repositórios públicos de usuários do GitHub.
+- Para além do desafio, foram utilizados:
+  - [Styled Components](https://styled-components.com/);
+  - [React Icons](https://react-md.dev/);
+  - Atualização de medidas PX para REM;
+  - [Media Queries](https://medium.com/reactbrasil/utilizando-media-queries-no-react-com-styled-components-f0f3160f3f01).
+  
 2.3 Desafio de Projeto: Tela de Cadastro com React;
 2.4 Desafio de Projeto: Implementando uma Tela de Login com Validação usando TypeScript.
 
