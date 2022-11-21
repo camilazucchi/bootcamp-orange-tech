@@ -20,7 +20,7 @@ Esse repositório destina-se para fins de estudos, incluindo materiais e  projet
 ## Projeto prático utilizando API
 
 - Nesse projeto foram utilizadas as stacks HTML, CSS e JavaScript. Para fazer a Pokédex também utilizamos a integração com a API pública [PokéAPI](https://pokeapi.co/).
-- O projeto encontra-se hospedado [AQUI](https://pokedex-rust-ten.vercel.app/).
+- O projeto encontra-se em deploy [AQUI](https://pokedex-rust-ten.vercel.app/).
 
 ![Foto do Projeto](https://uploaddeimagens.com.br/images/004/090/833/original/pokedex.PNG?1667580312)
 
@@ -38,7 +38,7 @@ Esse repositório destina-se para fins de estudos, incluindo materiais e  projet
 
 ![Foto do projeto](https://uploaddeimagens.com.br/images/004/163/666/original/calculadora.PNG?1668486633)
 - Utilizando React, a ideia proposta foi de criar uma calculadora, com funcionalidades (somar, subtrair, multiplicar e dividir).
-- O projeto encontra-se hospedado [AQUI](https://react-calculadora-two.vercel.app/).
+- O projeto encontra-se em deploy [AQUI](https://react-calculadora-two.vercel.app/).
 - Para além do desafio, foram utilizados:
   - [Styled Components](https://styled-components.com/);
   - [React Icons](https://react-md.dev/);
@@ -47,8 +47,9 @@ Esse repositório destina-se para fins de estudos, incluindo materiais e  projet
 
 2.2 Desafio de Projeto: Wiki de Repositórios do GitHub com React.
 
-![Foto do projeto](https://uploaddeimagens.com.br/images/004/171/027/original/wiki-repos.PNG?1669051822)
+![Foto do projeto](https://uploaddeimagens.com.br/images/004/171/047/original/screencapture-wiki-github-vercel-app-2022-11-21-14_36_45.png?1669052387)
 - Utilizando a [API de repositórios do GitHub](https://docs.github.com/en/rest/repos0), foi feito um projeto onde é possível adicionar e remover repositórios públicos de usuários do GitHub.
+- O projeto encontra-se em deploy [AQUI](https://wiki-github.vercel.app/).
 - Para além do desafio, foram utilizados:
   - [Styled Components](https://styled-components.com/);
   - [React Icons](https://react-md.dev/);
