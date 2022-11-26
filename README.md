@@ -56,8 +56,14 @@ Esse repositório destina-se para fins de estudos, incluindo materiais e  projet
   - Atualização de medidas PX para REM;
   - [Media Queries](https://medium.com/reactbrasil/utilizando-media-queries-no-react-com-styled-components-f0f3160f3f01).
   
-2.3 Desafio de Projeto: Tela de Cadastro com React;
-2.4 Desafio de Projeto: Implementando uma Tela de Login com Validação usando TypeScript.
+2.3 Desafio de Projeto: Implementando uma Tela de Login com Validação usando TypeScript.
+
+![Foto do Projeto](https://uploaddeimagens.com.br/images/004/180/448/original/login-page.PNG?1669494938)
+- Tela de Login feita com validação em TypeScript.
+- O projeto encontra-se em deploy [AQUI](https://login-page-steel.vercel.app/).
+- Para além do desafio, foram utilizados:
+  - [Styled Components](https://styled-components.com/);
+  - Atualização de medidas PX para REM.
 
 ## Stack utilizada
 
